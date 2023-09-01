@@ -88,7 +88,7 @@
       "chatbot": false
     },
     "6283146993017@s.whatsapp.net": {
-      "exp": 2553,
+      "exp": 2594,
       "diamond": 10,
       "lastclaim": 0,
       "registered": false,
@@ -834,10 +834,10 @@
       "lastSuccess": 1693486655268
     },
     "owner-exec2.js": {
-      "total": 12,
-      "success": 12,
-      "last": 1693526901448,
-      "lastSuccess": 1693526901448
+      "total": 14,
+      "success": 14,
+      "last": 1693526975263,
+      "lastSuccess": 1693526975263
     },
     "owner-addprem.js": {
       "total": 2,
@@ -1021,7 +1021,7 @@
       "self": false,
       "autoread": false,
       "restrict": false,
-      "status": 1693526919768
+      "status": 1693526951763
     }
   }
 }
